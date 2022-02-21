@@ -5,9 +5,9 @@
   class MyProfile:
     user = 'Crystal Kwan Wing Ching'
 	current_edu = "HKU"
-    areas_of_interest = "Business Intelligence, Machine Learning"
-    currently_learning = "Text Analytics, NLP and Financial Programming"
-    currently_working = "an order queuing system"
+    areas_of_interest = "Business Intelligence, Data Science, Machine Learning"
+    currently_learning = "Big Data Marketing, Text Analytics, NLP and Financial Programming"
+    currently_working = "an order management & CRM system for laundry store"
 	hobbies = [
 				'Sailing',
                          'Tennis',
