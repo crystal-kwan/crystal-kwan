@@ -13,8 +13,8 @@
 				]
 	hobbies = [
 			'Sailing',
-                   'Tennis',
-			 'Netflix',
+                 'Tennis',
+			'Netflix',
 			'Chinese Literature'
 			]
 	
