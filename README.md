@@ -7,7 +7,10 @@
 	current_edu = "HKU"
     areas_of_interest = "Business Intelligence, Data Science, Machine Learning"
     currently_learning = "Big Data Marketing, Text Analytics, NLP and Financial Programming"
-    currently_working = "an order management & CRM system for laundry store"
+    currently_working = [
+    				"an order management & CRM system for laundry store",
+				"H&M Group Marketing customer segmentation + product recommendationn"
+			]
 	hobbies = [
 				'Sailing',
                          'Tennis',
