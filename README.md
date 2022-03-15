@@ -9,8 +9,8 @@
     currently_learning = "Big Data Marketing, Text Analytics, NLP and Financial Programming"
     currently_working = [
     				"an order management & CRM system for laundry store",
-				"H&M Group Marketing customer segmentation + product recommendationn"
-			]
+			"H&M Group Marketing customer segmentation + product recommendationn"
+				]
 	hobbies = [
 				'Sailing',
                          'Tennis',
