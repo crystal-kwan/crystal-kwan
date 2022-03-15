@@ -12,10 +12,10 @@
 				"H&M Group Marketing customer segmentation + product recommendation"
 				]
 	hobbies = [
-				'Sailing',
-                         'Tennis',
-			 	'Netflix',
-				'Chinese Literature'
+			'Sailing',
+                   'Tennis',
+			 'Netflix',
+			'Chinese Literature'
 			]
 	
 	def getCity():
